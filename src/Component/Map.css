@@ -1,0 +1,40 @@
+.Background-2 {
+    /* background-color:rgb(248, 244, 244); */
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+}
+
+.map {
+    width: 30%; 
+    text-align: center;  
+}
+
+.map img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.text {
+    width: 70%; 
+    padding: 20px;
+    /* display: flex; */
+}
+
+.text h1 {
+    
+    font-size: 40px; 
+}
+
+.text h4 {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.text p {
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 17px; 
+}

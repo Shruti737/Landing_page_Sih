@@ -1,0 +1,11 @@
+.background{
+    background-color: #618264;
+    height: 28vh;
+}
+
+#Logo{
+    width: 60vw;
+    /* padding-right: 90px;
+    padding-left: 10px; */
+    float: left;
+}

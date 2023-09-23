@@ -1,0 +1,27 @@
+.Background-1 {
+    background-color: rgb(249, 246, 241);
+    margin: 10px;
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+  }
+  
+  
+  .menss, .women, .ins, .men {
+    width: 10%; 
+    text-align: center; 
+  }
+  
+  
+  .menss img, .women img, .ins img, .men img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Styles for the text */
+  .menss p, .women p, .ins p, .men p {
+    margin-top: 10px; 
+  }
+  

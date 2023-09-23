@@ -1,0 +1,18 @@
+.Background{
+    background-color: #F78CA2;
+    height: 50vh;
+    width: 100%;
+    margin-top: 10px;
+    
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    justify-content: center;
+    padding: 40px;
+}
+.inner-text{
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    justify-content: center;
+}
